@@ -219,4 +219,4 @@ pip-log.txt
 *.idea
 
 #GoDaddy
-*.godaddy_default
+*godaddy_default
