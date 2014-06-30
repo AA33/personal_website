@@ -1,5 +1,17 @@
-Node Boilerplate Version 2
+Source code for [abhishekanurag.com](http://abhishekanurag.com)
 ==========================
+
+This repository has the source files for my personal [website](http://abhishekanurag.com).
+
+This project uses following frameworks/libraries:
+
+1. [jQuery](http://http://jquery.com/)
+2. [Bootstrap](http://getbootstrap.com/)
+3. [Node.js](http://nodejs.org/)
+
+Node boilerplate readme
+==========================
+
 *Requires Node v0.6.6 (or newer)*
 node-boilerplate takes html-boilerplate, express, connect, jade and Socket.IO and organizes them into a ready to use website project. It's a fast way to get working on your Node website without having to worry about the setup. It takes care of all the boring parts, like setting up your views, 404 page, 500 page, getting the modules organized, etc... 
 
