@@ -9,7 +9,7 @@ This project uses following frameworks/libraries:
 2. [Bootstrap](http://getbootstrap.com/)
 3. [Node.js](http://nodejs.org/)
 
-Node boilerplate readme
+Node boilerplate Readme
 ==========================
 
 *Requires Node v0.6.6 (or newer)*
